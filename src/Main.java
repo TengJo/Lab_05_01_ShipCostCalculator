@@ -5,9 +5,9 @@ public class Main
     {
         boolean freeShipping;
         double itemPrice;
-        double shippingCost = 0;
+        double shippingCost;
         double totalPrice;
-        itemPrice = 110;
+        itemPrice = 69;
 
         if  (itemPrice >= 100)
         {
